@@ -47,7 +47,10 @@ Developed for API2Cart as part of their WordPress website.
 This template follows the licensing guidelines of the parent WordPress theme and any third-party assets used.
 
 ---
- Example: URI: https://www.dev-07.semenenko.pp.ua/
+---
+## Demo
+[Переглянути сайт](https://www.dev-07.semenenko.pp.ua/)
+
 
 
 
