@@ -21,7 +21,7 @@ The **Houme Template** is a custom WordPress page template designed for the API2
 
 
 ## Installation
-1. Copy the **Houme Template** file (`page-houme.php`) into your active WordPress theme directory.
+1. Copy the **Houme Template** file (`template-houme.php`) into your active WordPress theme directory.
 2. Ensure that the required assets (CSS/JS files) are enqueued in `functions.php`.
 3. In the WordPress admin panel, create a new page and select **Houme Template** under Page Attributes.
 4. Publish the page and view it on the front end.
